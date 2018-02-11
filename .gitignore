@@ -1,0 +1,11 @@
+/build
+/.idea
+/.gradle
+/gradle
+*/build
+*/bin
+*/.settings
+*/gen
+*.apk
+*.iml
+
